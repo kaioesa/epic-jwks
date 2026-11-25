@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "zzrmUUK9xl4sTrUrELsQM9L4t7pbyz_MmkQja42FC_LeVxvTa06U0zA9B-nxo9ao6PaD1JhzEGL0_m5pun9KKmUTdyjLMK4cz40tpMZCI5mhzFIBEPTD7Pr6XnQHCVeznWcUGsg1sU0ZgimELsWXAVGa0ve-C1jXAdDMy7aW8m7UfJR3W5oplE2pt9SlD3PYaHx3X-GsGR7EVIsCMlzQEqouAEtTGrKzVyrU6Rrw4l0n3yccKSAngnFYCLVT3TWBUY-R0mqQVukNbgP7mhrj3B5wHTxo2TVhGO8pK_1UrKqhMsHxm2pwvItAVbPIanG2ntGM5HXuuQPQmjlsEYUHvQ",
+      "e": "AQAB",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "azra-fhir-ingest-worker-key-1"
+    }
+  ]
+}
